@@ -1,0 +1,10 @@
+"""
+The continue statement skips only the current iteration and continues with the rest steps.
+ So, if we use the continue statement in a loop, it will only skip one iteration when the associated condition is true 
+ and then continue the rest of the loop unlike the break statement. 
+"""
+
+for i in range(10):
+    if i==5:
+        continue
+    print(i)
