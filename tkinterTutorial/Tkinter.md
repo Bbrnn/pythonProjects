@@ -16,7 +16,7 @@ Widgets : These are the building blocks of a tkinter GUI.
 * Listbox: Displays a list of items
 * Scrollbar: Provides scrolling capabilities
 
-**Geometry maanagement**
+**Geometry management**
 
 Focuses on how widgets are arranged in the window
 
